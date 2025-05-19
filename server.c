@@ -1,9 +1,4 @@
-/**
- * @authors Karan Mahajan - 110119774, Niharika Khurana - 110124290 (Section 1 Monday)
- * @email [mahaja81@uwindsor.ca,khuranan@uwindsor.ca]
- * @create date 2023-12-02 00:50:57
- * @modify date 2023-12-13 23:00:43
- * @desc [Client-server project, a client can request a file or a set of files from the server]
+
  */
 #define _XOPEN_SOURCE 500
 
